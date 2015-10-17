@@ -1,6 +1,6 @@
 # iSightSwitch for El Capitan 
 
-Apple Script allows you to enable/disable iSight camera by removing read right from the drivers.
+Apple Script allows you to enable/disable iSight camera by removing read rights from the drivers.
 
 1) Diable Rootless Mode by following this tutorial: http://osxdaily.com/2015/10/05/disable-rootless-system-integrity-protection-mac-os-x/
 
