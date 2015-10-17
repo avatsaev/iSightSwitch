@@ -2,7 +2,7 @@
 
 Apple Script allows you to enable/disable iSight camera by removing read right from the drivers.
 
-1) Diable Rootless Mode by booting into recovery mode, opening "Security Configuration" from the Utilities menu, and unchecking the box for "Enforce System Integrity Protection."
+1) Diable Rootless Mode by following this tutorial: http://osxdaily.com/2015/10/05/disable-rootless-system-integrity-protection-mac-os-x/
 
 2) Boot into OS X and execute the following command in the terminal:
 
